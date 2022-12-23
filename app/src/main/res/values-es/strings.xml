@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Compañero de camino</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="api_key">AIzaSyDD-Nc9RvzlsryPBOvCsfvLkR01N_AHNO4</string>
+    <string name="search_by_location">Buscar senderos por ubicación</string>
+    <string name="recent_searches">visto recientemente</string>
+    <string name="distance_x_mi">Distancia: X mi</string>
+    <string name="trail_name">Trail_name</string>
+    <string name="description">descripción</string>
+    <string name="rating">clasificación</string>
+    <string name="difficulty">dificultad</string>
+    <string name="signup">Inscribirse</string>
+    <string name="signin">Registrarse</string>
+    <string name="community">Comunidad</string>
+    <string name="GuestText">Continuar como invitado</string>
+    <string name="OR">O</string>
+    <string name="already"><u>Ya registrado Iniciar sesión</u></string>
+    <string name="re">Vuelva a escribir la contraseña</string>
+    <string name="pass">Clave</string>
+    <string name="email">Correo electrónico</string>
+    <string name="nrs"><u>registro no registrado</u></string>
+    <string name="permission_rationale_location">Access to the location service is required to demonstrate the \'my location\' feature, which shows your current location on the map.</string>
+    <string name="location_permission_denied">This sample requires location permission to enable the \'my location\' layer. Please try again and grant access to use the location.\nIf the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'Google Maps API Demos\'.</string>
+    <string name="permission_required_toast">Location permission is required for this demo.</string>
+</resources>

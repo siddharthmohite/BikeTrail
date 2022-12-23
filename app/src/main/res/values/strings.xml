@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Trail Buddy</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="api_key">AIzaSyDD-Nc9RvzlsryPBOvCsfvLkR01N_AHNO4</string>
+    <string name="search_by_location">Search trails by Location</string>
+    <string name="recent_searches">Recently Viewed</string>
+    <string name="distance_x_mi">Distance: X mi</string>
+    <string name="trail_name">Trail_name</string>
+    <string name="description">description</string>
+    <string name="rating">rating</string>
+    <string name="difficulty">difficulty</string>
+
+    <string name="signup">SignUp</string>
+    <string name="signin">SignIn</string>
+    <string name="community">Community</string>
+    <string name="GuestText">Continue as a Guest</string>
+    <string name="OR">OR</string>
+    <string name="already"><u>Already Registered? Sign In</u></string>
+    <string name="re">Re type password</string>
+    <string name="pass">Password</string>
+    <string name="email">Email</string>
+    <string name="nrs"><u>Not registered signup</u></string>
+
+    <string name="permission_rationale_location">Access to the location service is required to demonstrate the \'my location\' feature, which shows your current location on the map.</string>
+    <string name="location_permission_denied">This sample requires location permission to enable the \'my location\' layer. Please try again and grant access to use the location.\nIf the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'Google Maps API Demos\'.</string>
+    <string name="permission_required_toast">Location permission is required for this demo.</string>
+</resources>

@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "831732268108",
+    "firebase_url": "https://trailbuddy-632fb-default-rtdb.firebaseio.com",
+    "project_id": "trailbuddy-632fb",
+    "storage_bucket": "trailbuddy-632fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831732268108:android:4913648ec3d22b542848e9",
+        "android_client_info": {
+          "package_name": "com.j18.trailbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831732268108-0l9sneie8s31vsacrego0923to1bua0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.j18.trailbuddy",
+            "certificate_hash": "185027864702432db46c500c6f3e354c0970df77"
+          }
+        },
+        {
+          "client_id": "831732268108-ehg2d3dev8umphdbuo98mbsijiu5g4b0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.j18.trailbuddy",
+            "certificate_hash": "73a6191d2a1feb6173df0b418ca87447e221af35"
+          }
+        },
+        {
+          "client_id": "831732268108-u2m3r7ig0o8t4c7kq3ji008es0o5uq5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG7okMUvNf4QcZpHSPfh0lv8T0TUbGhtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831732268108-u2m3r7ig0o8t4c7kq3ji008es0o5uq5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
